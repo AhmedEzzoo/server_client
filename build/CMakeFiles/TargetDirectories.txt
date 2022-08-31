@@ -1,0 +1,3 @@
+E:/C++ visual studio/server_client/build/CMakeFiles/Server.dir
+E:/C++ visual studio/server_client/build/CMakeFiles/edit_cache.dir
+E:/C++ visual studio/server_client/build/CMakeFiles/rebuild_cache.dir

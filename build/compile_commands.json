@@ -1,0 +1,47 @@
+[
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/main.cpp.obj -c \"E:/C++ visual studio/server_client/src/main.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/main.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/SocketBinding.cpp.obj -c \"E:/C++ visual studio/server_client/src/SocketBinding.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/SocketBinding.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/Socket.cpp.obj -c \"E:/C++ visual studio/server_client/src/Socket.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/Socket.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/SocketConnection.cpp.obj -c \"E:/C++ visual studio/server_client/src/SocketConnection.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/SocketConnection.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/SocketListening.cpp.obj -c \"E:/C++ visual studio/server_client/src/SocketListening.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/SocketListening.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/Server.cpp.obj -c \"E:/C++ visual studio/server_client/src/Server.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/Server.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/HttpMainPage.cpp.obj -c \"E:/C++ visual studio/server_client/src/HttpMainPage.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/HttpMainPage.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/Client.cpp.obj -c \"E:/C++ visual studio/server_client/src/Client.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/Client.cpp"
+},
+{
+  "directory": "E:/C++ visual studio/server_client/build",
+  "command": "C:/msys64/mingw64/bin/x86_64-w64-mingw32-g++.exe  @CMakeFiles/Server.dir/includes_CXX.rsp  -std=c++17 -pthread -g   -std=c++17 -std=gnu++17 -o CMakeFiles/Server.dir/src/MessagesExchange.cpp.obj -c \"E:/C++ visual studio/server_client/src/MessagesExchange.cpp\"",
+  "file": "E:/C++ visual studio/server_client/src/MessagesExchange.cpp"
+}
+]
